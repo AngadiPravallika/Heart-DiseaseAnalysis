@@ -53,6 +53,7 @@ Example: Forecast next month’s sales.
 4️⃣ Prescriptive Analytics
 Answers: What should be done?
 Example: Recommend discount strategies.
+
 ________________________________________
 Introduction to Tableau
 1.5 What is Tableau?
