@@ -4,11 +4,11 @@
 Team Member :
 -------------
 
--   [ANGADI PRAVALLIKA]
+-   ANGADI PRAVALLIKA
 
--  [BELLAMKONDA GAYATRI SRIJA]
+-  BELLAMKONDA GAYATRI SRIJA
 
-- [BODAVULA NAIMITHA]
+- BODAVULA NAIMITHA
 
 Problem Statement:
 ------------------
@@ -21,7 +21,6 @@ Dataset:
 
 Dataset is available in the given link. You can download as per your convenient.
 
-[Heart Disease Diagnostic](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 
 Approaches:
 -----------
@@ -44,7 +43,6 @@ convenience. We would appreciate your valid imagination in finding solutions.
 
 
 
-**[Prototype](https://abdul-jaweed-heart-disease-diagnostics-prediction-home-whsmbc.streamlit.app/)**
 
 # HEART DISEASE DIAGNOSTIC DASHBOARD
 
