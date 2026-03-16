@@ -1,17 +1,14 @@
 # Heart Disease Diagnostic Analysis
-
-![heart](https://github.com/Abdul-Jaweed/Heart-Disease-Diagnostics-Prediction/blob/main/heart-descrip.jpg)
-Team Name : CLUSTER CHAMP
 --------------------
 
 Team Member :
 -------------
 
--   ## [ABDUL JAWEED](https://www.linkedin.com/in/abdul-jaweed-datascientist/)
+-   [ANGADI PRAVALLIKA]
 
--   ## [MASNA ASHRAF](https://www.linkedin.com/in/masna-ashraf/)
+-  [BELLAMKONDA GAYATRI SRIJA]
 
--   ## [SHAZIYA SHAIKH](https://www.linkedin.com/in/shaziya-shaikh-ba9295253/)
+- [BODAVULA NAIMITHA]
 
 Problem Statement:
 ------------------
